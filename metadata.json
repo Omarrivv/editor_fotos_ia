@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini AI Photo Editor",
+  "description": "An advanced photo editing application that leverages the new generation of AI to transform your images. Simply upload a photo, provide a text prompt describing your desired changes, and let the AI generate a new version of your image.",
+  "requestFramePermissions": []
+}
